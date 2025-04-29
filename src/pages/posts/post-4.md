@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: src/layouts/MarkdownPostLayout.astro
 title: My Fourth Blog Post
 author: Indigo
 description: "This post will show up on its own!"
